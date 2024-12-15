@@ -1,6 +1,4 @@
 
-A brief description of what this project does and who it's for
-
 ## 👋 Hi there, I'm Debanjan Dutta!
 
 I'm a passionate **Frontend Developer** and a lifelong learner with a love for **web technologies**. I'm currently diving deep into the world of backend development, broadening my skill set to become a full-stack developer.
