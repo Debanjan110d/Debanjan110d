@@ -11,6 +11,11 @@
 💬 Ask me about Python, Frontend Web Dev, Flask, or game modding (especially for Bannerlord)!
 ⚡ Fun fact: I mix gaming with coding on my YouTube channel, "Gamer's Code Lab"! 😄🎮👨‍💻
 
+
+
+![](https://komarev.com/ghpvc/?username=debajn110d&label=VISITORS&color=red)
+
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/debanjan100)
